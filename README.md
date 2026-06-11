@@ -71,6 +71,16 @@ Input Road Image
 - Edge deployment on physical ESP32 hardware
 - Mobile dashboard integration
 
+## Results
+
+### Hybrid Model Output
+
+![Output 1](screenshots/output1.png)
+
+### Vehicle Detection Result
+
+![Output 2](screenshots/output2.png)
+
 ## Author
 
 Kunal Gautam
